@@ -1,0 +1,48 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zaiens.clubapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/tmp/clubapp/app/src/main/AndroidManifest.xml:3:3-64
+11-->/tmp/clubapp/app/src/main/AndroidManifest.xml:3:20-62
+12
+13    <application
+13-->/tmp/clubapp/app/src/main/AndroidManifest.xml:4:3-16:17
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->/tmp/clubapp/app/src/main/AndroidManifest.xml:6:7-41
+17        android:label="社团网盘"
+17-->/tmp/clubapp/app/src/main/AndroidManifest.xml:5:7-27
+18        android:theme="@style/AppTheme"
+18-->/tmp/clubapp/app/src/main/AndroidManifest.xml:7:7-38
+19        android:usesCleartextTraffic="false" >
+19-->/tmp/clubapp/app/src/main/AndroidManifest.xml:8:7-43
+20        <activity
+20-->/tmp/clubapp/app/src/main/AndroidManifest.xml:9:5-15:16
+21            android:name="com.zaiens.clubapp.MainActivity"
+21-->/tmp/clubapp/app/src/main/AndroidManifest.xml:9:15-43
+22            android:configChanges="orientation|screenSize|keyboardHidden"
+22-->/tmp/clubapp/app/src/main/AndroidManifest.xml:10:9-70
+23            android:exported="true" >
+23-->/tmp/clubapp/app/src/main/AndroidManifest.xml:9:44-67
+24            <intent-filter>
+24-->/tmp/clubapp/app/src/main/AndroidManifest.xml:11:7-14:23
+25                <action android:name="android.intent.action.MAIN" />
+25-->/tmp/clubapp/app/src/main/AndroidManifest.xml:12:9-60
+25-->/tmp/clubapp/app/src/main/AndroidManifest.xml:12:17-58
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/tmp/clubapp/app/src/main/AndroidManifest.xml:13:9-68
+27-->/tmp/clubapp/app/src/main/AndroidManifest.xml:13:19-66
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

@@ -1,0 +1,2 @@
+com.zaiens.clubapp:style/AppTheme = 0x7f020000
+com.zaiens.clubapp:mipmap/ic_launcher = 0x7f010000

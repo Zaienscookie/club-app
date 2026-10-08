@@ -1,0 +1,7 @@
+com.zaiens.clubapp-pngs-0 /tmp/clubapp/app/build/generated/res/pngs/debug
+com.zaiens.clubapp-resValues-1 /tmp/clubapp/app/build/generated/res/resValues/debug
+com.zaiens.clubapp-packageDebugResources-2 /tmp/clubapp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.zaiens.clubapp-packageDebugResources-3 /tmp/clubapp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.zaiens.clubapp-merged_res-4 /tmp/clubapp/app/build/intermediates/merged_res/debug
+com.zaiens.clubapp-debug-5 /tmp/clubapp/app/src/debug/res
+com.zaiens.clubapp-main-6 /tmp/clubapp/app/src/main/res

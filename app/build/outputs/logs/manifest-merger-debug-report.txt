@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:3:3-64
+	android:name
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:3:20-62
+application
+ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:4:3-16:17
+INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml:4:3-16:17
+	android:extractNativeLibs
+		INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:5:7-27
+	android:icon
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:6:7-41
+	android:theme
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:7:7-38
+	android:usesCleartextTraffic
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:8:7-43
+activity#com.zaiens.clubapp.MainActivity
+ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:9:5-15:16
+	android:exported
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:9:44-67
+	android:configChanges
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:10:9-70
+	android:name
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:9:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:11:7-14:23
+action#android.intent.action.MAIN
+ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:12:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:13:9-68
+	android:name
+		ADDED from /tmp/clubapp/app/src/main/AndroidManifest.xml:13:19-66
+uses-sdk
+INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml
+INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /tmp/clubapp/app/src/main/AndroidManifest.xml
