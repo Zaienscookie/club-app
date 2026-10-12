@@ -9,3 +9,6 @@
 
 ## 使用说明
 安装 APK 后打开即进入社团网盘，需登录账号
+
+## 构建指南
+需要 Android SDK 34 + JDK 17，gradle assembleDebug
