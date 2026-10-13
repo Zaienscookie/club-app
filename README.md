@@ -12,3 +12,6 @@
 
 ## 构建指南
 需要 Android SDK 34 + JDK 17，gradle assembleDebug
+
+## 版本历史
+v0.1 系列持续迭代，WebView 基础功能
