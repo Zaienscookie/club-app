@@ -33,3 +33,6 @@ minSdk 24，覆盖 Android 7+ 设备
 
 ## 未来计划
 深色模式跟随、下载管理、推送通知
+
+## 贡献说明
+欢迎 Issues/PR，代码在 github.com/Zaienscookie/club-app
